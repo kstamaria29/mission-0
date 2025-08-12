@@ -1,12 +1,38 @@
-# React + Vite
+# Mission 0 - Marketing Association NZ Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## About The Project
 
-Currently, two official plugins are available:
+This is a website that is built with React/Vite and Tailwind CSS for my first mission project for my Level 5 Advanced FullStack Development program.
+The focus on this assignment is to apply responsiveness to the website.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+[![React][React.js]][React-url]
+[![Tailwind][Tailwind.css]][Tailwind-url]
 
-## Expanding the ESLint configuration
+## Project Brief
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+    You are contracted by Marketing Association New Zealand to build a quick page as a template for their new digital news home page.
+
+    - Build an application using any front-end framework of your choice with a home page using the wireframe shared as guidance.
+    - You can use your own color palette and pictures.
+    - Search functionality need not be implemented.
+
+<!-- ![alt text](images/wireframe1.png) -->
+
+<div align="center">
+<img src="images/wireframe1.png" alt="Logo">
+</div>
+
+    Make the webpage responsive using the wireframe below as guidance.
+
+<!-- ![alt text](images/wireframe2.png) -->
+
+<div align="center">
+<img src="images/wireframe2.png" alt="Logo">
+</div>
+
+<!-- MARKDOWN LINKS & IMAGES -->
+
+[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[React-url]: https://reactjs.org/
+[Tailwind.css]: https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC
+[Tailwind-url]: https://tailwindcss.com/
