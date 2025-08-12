@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "TVNZ joins NZ MA's Leadership Programme",
+    "content": "TVNZ has joined the 2025 Professional Certification of Advanced Marketing Leadership (AML)...",
+    "img": "/assets/news1.jpg",
+    "date": "12th April 2025",
+    "city": "Auckland"
+  },
+  {
+    "id": 2,
+    "title": "Kiwi Search Habits 2025: The Next Era of Search",
+    "content": "Kiwis are reshaping the way they search - and fast. The latest Kiwi Search Habits Survey reveals a...",
+    "img": "/assets/news2.jpg",
+    "date": "23rd May 2025",
+    "city": "Christchurch"
+  },
+  {
+    "id": 3,
+    "title": "AI Meets Marketing",
+    "content": "Take a significant step forward in understanding and applying AI in the field of marketing. This...",
+    "img": "/assets/news3.jpg",
+    "date": "21st July 2025",
+    "city": "Dunedin"
+  }
+]
