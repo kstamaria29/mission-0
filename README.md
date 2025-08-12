@@ -10,21 +10,17 @@ The focus on this assignment is to apply responsiveness to the website.
 
 ## Project Brief
 
-    You are contracted by Marketing Association New Zealand to build a quick page as a template for their new digital news home page.
+You are contracted by Marketing Association New Zealand to build a quick page as a template for their new digital news home page.
 
-    - Build an application using any front-end framework of your choice with a home page using the wireframe shared as guidance.
-    - You can use your own color palette and pictures.
-    - Search functionality need not be implemented.
-
-<!-- ![alt text](images/wireframe1.png) -->
+- Build an application using any front-end framework of your choice with a home page using the wireframe shared as guidance.
+- You can use your own color palette and pictures.
+- Search functionality need not be implemented.
 
 <div align="center">
 <img src="images/wireframe1.png" alt="Logo">
 </div>
 
-    Make the webpage responsive using the wireframe below as guidance.
-
-<!-- ![alt text](images/wireframe2.png) -->
+Make the webpage responsive using the wireframe below as guidance.
 
 <div align="center">
 <img src="images/wireframe2.png" alt="Logo">
